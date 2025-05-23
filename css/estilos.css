@@ -1,0 +1,16 @@
+  body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #FF4500;
+      margin-top: 1rem;
+    }
+    .logo {
+      width: 100px;
+      margin: auto;
+      display: block;
+    }
